@@ -1,17 +1,17 @@
 # DM-32UV
 Baofeng CPS for the DM-32UV DMR radio
 
-Parameters
+**Parameters**
 
 Embedded Info:/"Model Info"
 Password: 374612
 
-Engineering
+**Engineering**
 
 Adjust Mode:/"Test Mode"
 Password: 66660501
 
-Radio
+**Radio**
 
 No reset enabled/engineering via keypad (all in cn no en option)
 Password: 66660501
