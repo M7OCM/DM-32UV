@@ -5,6 +5,8 @@ It should be noted that the CPS is extremely buggy, even the latest, and the var
 
 Despite these shortcomings the radio is actually pretty solid but be prepared to spend some time figuring out basic stuff let alone the more complex things - good luck.
 
+[Join the discussion](https://github.com/M7OCM/DM-32UV/discussions)
+
 73
 
 M7OCM
