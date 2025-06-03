@@ -1,2 +1,2 @@
 # DM-32UV
-Archive of Baofeng CPS and firmware for the DM-32UV DMR radio
+Official Baofeng DM-32UV DMR radio related downloads from baofengradio.com, not hacked, modded or changed in anyway.
