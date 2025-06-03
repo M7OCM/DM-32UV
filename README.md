@@ -1,2 +1,2 @@
 # DM-32UV
-Archive of Baofeng CPS and firmware for the DM-32UV DMR radio
+Baofeng firmware for the DM-32UV DMR radio (known as the Taiwan version), different chip and hardware. Firmware always begins with 00.00. or 00.01, note the first two digits 00. also early examples used the firmware prefix "UV" instead of "DM" just to confuse the shit out of everyone! If installed on wrong version radio it will soft brick, solution is to remove battery, turn device on and reflash the correct version (update mode: SK1+PTT).
