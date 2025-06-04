@@ -19,4 +19,4 @@ Save a copy of info on screen or via file before changing anything!!!
 
 **Fonts**
 
-Read Fonts.txt for installation instructions (en)
+Read Fonts.txt (Fonts.zip) for installation instructions (en)
