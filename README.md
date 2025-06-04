@@ -1,5 +1,5 @@
 # DM-32UV
-Baofeng firmware for the DM-32UV DMR radio (known as the Taiwan version), different chip and hardware. Firmware for this model is confusing - earlier versions began with 01.01, latter versions 00.01 in addition some examples used the firmware prefix "UV" instead of "DM" just to confuse the shit out of everyone! The earliest firmware I have heard about is UV32.01.01.28 and UV32.01.01.29. If installed on the wrong hardware it will soft brick the radio, solution is to remove battery, turn device on while pressing SK1 and PTT and reflash the correct version.
+Baofeng firmware for the DM-32UV DMR radio (known as the Taiwan version), different chip and hardware. Firmware for this model is confusing - earlier versions began with 01.01, latter versions 00.01 in addition some examples used the firmware prefix "UV" instead of "DM" just to confuse the shit out of everyone! The earliest firmware I have heard about is UV32.01.01.28 and UV32.01.01.29. If installed on the wrong hardware it will soft brick the radio, solution is to remove battery, turn device on while pressing SK1 and PTT (reattach battery) and reflash the correct version.
 
 Reset radio by first uploading a CPS file with allow reset selected and turn on while holding SK1 and SK2, the reset menu can then be initialised.
 
