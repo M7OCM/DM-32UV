@@ -1,14 +1,22 @@
 # DM-32UV
-Baofeng CPS for the DM-32UV DMR radio
+Baofeng CPS and fonts for the DM-32UV DMR radio
+
+/*DMR CPS/Tool(T)*/
 
 **Parameters**
 
-Embedded Info in CPS
-Password: 374612
+- Embedded Information
+- Password: 374612
 
 **Engineering**
 
-Adjust Mode in CPS and no reset enabled via keypad (all in cn no en option)
-Password: 66660501
+- Adjust Mode
+- DMR CPS
+- Radio, no reset enabled, adjust via radio keypad (all in cn no en option)
+- Password: 66660501
 
 Save a copy of info on screen or via file before changing anything!!!
+
+**Fonts**
+
+Read Fonts.txt for installation instructions (en)
