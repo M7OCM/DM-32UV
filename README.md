@@ -15,8 +15,8 @@ Baofeng CPS and fonts for the DM-32UV DMR radio
 - Radio, no reset enabled, adjust via radio keypad (all in cn no en option)
 - Password: 66660501
 
-Save a copy of info on screen or via file before changing anything!!!
+Save a copy of info on screen or via file before changing anything!!! A default adjust mode .test file is available (use at own risk).
 
 **Fonts**
 
-Read Fonts.txt (Fonts.zip) for installation instructions (en)
+Read Fonts.txt (Fonts.zip) for installation instructions (en translated from cn)
