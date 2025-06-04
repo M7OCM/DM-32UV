@@ -1,7 +1,7 @@
 # DM-32UV
 Baofeng CPS and fonts for the DM-32UV DMR radio
 
-/*DMR CPS/Tool(T)*/
+*DMR CPS/Tool(T)*
 
 **Parameters**
 
