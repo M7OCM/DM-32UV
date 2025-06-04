@@ -3,13 +3,13 @@ Baofeng firmware for the DM-32UV DMR radio (known as the Taiwan version), differ
 
 Reset radio by first uploading a CPS file with allow reset selected and turn on while holding SK1 and SK2, the reset menu can then be initialised.
 
-**Additional information gleaned from ChatGPT:**
+**Additional (unverified) information gleaned from ChatGPT:**
 
 The Baofeng DM-32 DMR radio has two distinct versions, with the earlier, less common variant featuring the HR-C6000 vocoder chipset. This version is believed to have been developed in collaboration with a Taiwanese partner and is sometimes referred to as the "Taiwan version."
 
 It is characterized by unique firmware and hardware differences compared to the more widely available model.
 
-**Key Characteristics of the Early HR Vocoder Version.**
+**Key Characteristics of the Early HR Vocoder Version**
 
 HR-C6000 Vocoder: This chipset was used in several early DMR radios, including the Radioddity GD-77 and Baofeng DM-1801. Its presence in the early DM-32 suggests shared design elements with these models.
 
