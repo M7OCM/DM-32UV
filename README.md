@@ -3,4 +3,9 @@ Baofeng firmware for the DM-32UV DMR radio the most common type sold in China vi
 
 Reset radio by first uploading a CPS file with allow reset selected and turn on while holding SK1 and SK2, the reset menu can then be initialised.
 
-Note DM32.01.01.046.bin is the official release from Baofeng other version origin is unknown could be semi official/grey.
+Note DM32.01.01.046.bin is the official release from Baofeng other version origin is unknown could be semi official/grey. As of September 2025 DM32.01.01.047 has been appearing on newly sold radios. Please get in touch if you have this version.
+
+## Flash dump
+The zip file contains Open UV008 a program to extract firmware from the Baofeng DM-32UV (and obviously the Zastone UV008). Before running enter the ini file and amend the file location to your setup, save, exit.
+
+To extract the flash dump for the DM-32UV select *GD25Q16* (read/write SPI flash), select correct COM port of radio. **Turn off radio**, save as (name/location of completed dump) press read and the process will begin. It takes a while but leave it to finish. You can forward the file (zip file only not raw binary) to me directly - just get in touch through the discussion option it can then be converted to a useable bin file for upload here.
