@@ -12,7 +12,7 @@ There are many firmware versions I have not discovered and I am interested in he
 Despite these shortcomings the radio is actually pretty solid but be prepared to spend some time figuring out basic stuff let alone the more complex things - good luck.
 
 - [CPS](https://github.com/M7OCM/DM-32UV/tree/CPS)
-- [DM-32UV Firmware](https://github.com/M7OCM/DM-32UV/tree/DM-32UV-Firmware-(most-common))
+- [DM-32UV Firmware and Flash dump tool](https://github.com/M7OCM/DM-32UV/tree/DM-32UV-Firmware-(most-common))
 - [DM-32UV HR Vocoder Firmware](https://github.com/M7OCM/DM-32UV/tree/HR-Vocoder-DM-32UV-Firmware)
 - [Software](https://github.com/M7OCM/DM-32UV/tree/DM-32UV-Software-(Record-%26-PoP))
 - [Firmware Mods](https://github.com/M7OCM/DM-32UV/tree/Mods)
