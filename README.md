@@ -5,9 +5,7 @@ It should be noted that the CPS is extremely buggy, even the latest, and the var
 
 Note if you have firmware version ending 047, do not upgrade to 048 until 047 is publicly released here.
 
-These are provided here purely as a one stop archive.
-
-The validity of the content is for the most part unknown; 046/048 are Baofeng.
+The validity of the content herein is for the most part unknown; 046/048 are Baofeng sourced however.
 
 There are many firmware versions I have not discovered and I am interested in hearing from anyone that can share early test firmware or CPS not listed herein.
 
