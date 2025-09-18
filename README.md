@@ -1,9 +1,9 @@
 # DM-32UV
 Archive of Baofeng CPS, firmware and software for the Baofeng DM-32UV DMR radio.
 
-It should be noted that the CPS is extremely buggy, even the latest, and the various firmware revisions are too, some features do not work but most do on the official release 046 (latest Baofeng 'test' firmware is 048 and CPS 1.50, use with caution, record function removed, however CSV contacts have increased from 50K to 150K).
+It should be noted that the CPS is extremely buggy, even the latest, and the various firmware revisions are too, some features do not work but most do on the official release 046.
 
-Note if you have firmware version ending 047, do not upgrade to 048 until 047 is publicly released here.
+Latest firmware ends in 049 the digital record function is back and standard 50K CSV contacts. The previous Baofeng 'test' firmware 048 has no record function, however CSV contacts increased from 50K to 150K. It is therefore assumed that the record function was removed to facilitate additional CSV memory in this version.
 
 The validity of the content herein is for the most part unknown; 046/048 are Baofeng sourced however.
 
