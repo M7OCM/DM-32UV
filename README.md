@@ -9,6 +9,16 @@ The validity of the content herein is for the most part unknown; fw ending 046-0
 
 There are many firmware versions I have not discovered and I am interested in hearing from anyone that can share early test firmware or CPS not listed herein.
 
+Boards used:
+
+HR Vocoder DM-32UV PCB
+- DM32_UV_V1.2 2024-08-05
+
+Common DM-32UV PCB revision
+- DM32_UV_V1.4 2024-12-20
+
+Note: later boards (2025 onwards) may well differ.
+
 Despite these shortcomings the radio is actually pretty solid but be prepared to spend some time figuring out basic stuff let alone the more complex things - good luck.
 
 - [CPS](https://github.com/M7OCM/DM-32UV/tree/CPS)
