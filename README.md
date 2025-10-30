@@ -5,8 +5,6 @@ It should be noted that the CPS is extremely buggy, even the latest, and the var
 
 Latest firmware ends in 049 the digital record function is back and standard 50K CSV contacts. The previous Baofeng 'test' firmware 048 has no record function, however CSV contacts increased from 50K to 150K. The record function was removed to facilitate additional CSV memory in this version.
 
-The validity of the content herein is for the most part unknown; fw ending 046-049 are official Baofeng sourced however.
-
 There are many firmware versions I have not discovered and I am interested in hearing from anyone that can share early test firmware or CPS not listed herein.
 
 Boards used:
