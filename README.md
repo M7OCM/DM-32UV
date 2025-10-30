@@ -19,8 +19,6 @@ Common DM-32UV PCB revision
 
 Note: later boards (2025 onwards) may well differ.
 
-Despite these shortcomings the radio is actually pretty solid but be prepared to spend some time figuring out basic stuff let alone the more complex things - good luck.
-
 - [CPS](https://github.com/M7OCM/DM-32UV/tree/CPS)
 - [DM-32UV Firmware and Flash Dump Tool](https://github.com/M7OCM/DM-32UV/tree/DM-32UV-Firmware-(most-common))
 - [DM-32UV HR Vocoder Firmware](https://github.com/M7OCM/DM-32UV/tree/HR-Vocoder-DM-32UV-Firmware)
