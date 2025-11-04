@@ -17,6 +17,8 @@ Common DM-32UV PCB revision
 
 Note: later boards (2025 onwards) may well differ.
 
+Recent case revisions: new display screen which has a small bezel border; earlier models had a wider bezel which blocked the edges of the display - good improvement Baofeng!
+
 - [CPS](https://github.com/M7OCM/DM-32UV/tree/CPS)
 - [DM-32UV Firmware and Flash Dump Tool](https://github.com/M7OCM/DM-32UV/tree/DM-32UV-Firmware-(most-common))
 - [DM-32UV HR Vocoder Firmware](https://github.com/M7OCM/DM-32UV/tree/HR-Vocoder-DM-32UV-Firmware)
