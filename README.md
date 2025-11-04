@@ -7,7 +7,10 @@ The earliest firmware I have heard about is UV32.01.01.28 and UV32.01.01.29. If 
 
 Reset radio by first uploading a CPS file with allow reset selected and turn on while holding SK1 and SK2, the reset menu can then be initialised.
 
-The two side buttons on this version are smooth and lack the raised tactile horizontal ridges [-] [=]
+The two side buttons on this Asia only version are smooth and lack the raised tactile horizontal ridges of the ROW model:
+
+[-] SK1
+[=] SK2
 
 **Additional (unverified) information gleaned from ChatGPT**
 
