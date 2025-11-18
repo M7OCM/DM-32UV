@@ -26,7 +26,7 @@ Recent case revisions: new display screen which has a small bezel border; earlie
 - [Firmware Mods](https://github.com/M7OCM/DM-32UV/tree/Mods)
 - [Official Baofeng Downloads](https://github.com/M7OCM/DM-32UV/tree/Official-Baofeng-downloads)
 
-Many thanks to RA4FHE for his research, experimentation and knowledge!
+Many thanks to RA4FHE for his research, experimentation and [OpenDM32](http://infotex58.ru/forum/index.php?topic=1168.msg10585#msg10585)
 
 [Join the discussion](https://github.com/M7OCM/DM-32UV/discussions)
 
