@@ -3,7 +3,9 @@ Baofeng firmware for the DM-32UV DMR radio the most common type sold in China vi
 
 Reset radio by first uploading a CPS file with allow reset selected and turn on while holding SK1 and SK2, the reset menu can then be initialised.
 
-As of late 2025 DM32.01.01.047 or DM32.01.01.049 firmware has been appearing on newly sold radios. 
+As of late 2025 DM32.01.01.047 or DM32.01.01.049 firmware has been appearing on newly sold radios.
+
+The bin files containing NRF and Fanti are sourced from Taiwan for the FT-399DMR/DM-32 [rowa.com.tw](https://www.rowa.com.tw/store/index.php?route=product/product&path=134&product_id=1731)
 
 ## Flash dump
 The zip file contains Open UV008 a program to extract firmware from the Baofeng DM-32UV (and obviously the Zastone UV008). Before running enter the ini file and amend the file location to your setup, save, exit.
