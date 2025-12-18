@@ -7,12 +7,12 @@ Latest firmware ends in 049 the digital record function is back and standard 50K
 
 There are many firmware versions I have not discovered and I am interested in hearing from anyone that can share early test firmware or CPS not listed herein.
 
-Boards used:
+Boards used (list not complete):
 
-HR Vocoder DM-32UV PCB
+HR Vocoder DM-32UV and early non HRV DM-32UV PCB
 - DM32_UV_V1.2 2024-08-05
 
-Common DM-32UV PCB revision
+Common DM-32UV PCB revision only
 - DM32_UV_V1.4 2024-12-20
 
 Note: later boards (2025 onwards) may well differ.
